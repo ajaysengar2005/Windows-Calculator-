@@ -37,7 +37,7 @@ Calculator/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ajaysengar2005/Windows-Calculator-
+   https://github.com/ajaysengar2005/Windows-Calculator-
 Open the project in Visual Studio.
 
 Build the solution (Ctrl + Shift + B).
